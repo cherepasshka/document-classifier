@@ -1,1 +1,2 @@
-The DOCUMENT_CLASSIFUER.ipynb will contain code for training ML model for classifying types of documents
+### Классификатор документов
+Файл `DOCUMENT_CLASSIFIER.ipynb` содержит код для валидации гиперпараметров и обучения модели случайного леса для классификации бухгалтерских документов.
